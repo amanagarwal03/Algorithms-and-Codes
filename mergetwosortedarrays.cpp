@@ -1,3 +1,4 @@
+//Merge two sorted arrays with O(1) extra space
 #include<iostream>
 using namespace std;
 void mergetwo(int arr1[],int arr2[],int n1,int n2)
